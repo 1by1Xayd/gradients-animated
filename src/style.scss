@@ -22,16 +22,16 @@ html, body {
 }
 
 :root {
-  --color-bg1: rgb(5, 5, 10); /* Very dark background */
-  --color-bg2: rgb(2, 2, 5);  /* Even darker background */
-  --color1: 10, 30, 20; /* Very dim green */
-  --color2: 20, 50, 20; /* Consistent dim green */
-  --color3: 10, 30, 20; /* Very dim green */
-  --color4: 10, 30, 20; /* Very dim green */
-  --color5: 10, 30, 20; /* Very dim green */
-  --color-interactive: 10, 30, 20; /* Very dim green */
-  --circle-size: 70%; /* Slightly smaller circle size */
-  --blending: screen; /* Use screen blending mode for soft glows */
+  --color-bg1: rgb(5, 5, 10);
+  --color-bg2: rgb(2, 2, 5);
+  --color1: 0, 102, 186;
+  --color2: 0, 110, 201;
+  --color3: 0, 90, 166;
+  --color4: 0, 90, 166;
+  --color5: 0, 90, 166;
+  --color-interactive: 21, 87, 143;
+  --circle-size: 70%;
+  --blending: screen;
 }
 
 
